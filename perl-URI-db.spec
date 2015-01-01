@@ -18,6 +18,9 @@ Requires:       perl(URI::Nested) >= 0.10
 Requires:       perl(:MODULE_COMPAT_%(eval "`%{__perl} -V:version`"; echo $version))
 
 %description
+For package support, please visit
+https://github.com/lambda-linux-pkgs/%{name}/issues
+
 This class provides support for database URIs. They're inspired by JDBC URIs
 and PostgreSQL URIs, though they're a bit more formal.
 
