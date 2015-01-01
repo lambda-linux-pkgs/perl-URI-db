@@ -54,6 +54,13 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man3/*
 
 %changelog
+* Thu Jan 01 2015 Rajiv M Ranganath <rajiv.ranganath@atihita.com> 0.15-1
+- Adapt for AL/LL
+- Add package support URL
+- Update spec file
+- Import `URI-db-0.15.tar.gz`
+- Import spec file
+
 * Fri Jan 10 2014 David E. Wheeler <david.wheeler@iovation.com> 0.12-1
 - Update to v0.12.
 
