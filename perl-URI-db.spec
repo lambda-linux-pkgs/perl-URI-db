@@ -1,5 +1,5 @@
 Name:           perl-URI-db
-Version:        0.12
+Version:        0.15
 Release:        1%{?dist}
 Summary:        Perl module for database URIs
 License:        GPL+ or Artistic
