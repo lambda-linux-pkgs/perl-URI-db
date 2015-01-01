@@ -1,6 +1,8 @@
+%define _buildid .2
+
 Name:           perl-URI-db
 Version:        0.15
-Release:        1%{?dist}
+Release:        1%{?_buildid}%{?dist}
 Summary:        Perl module for database URIs
 License:        GPL+ or Artistic
 Group:          Development/Libraries
